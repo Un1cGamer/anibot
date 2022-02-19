@@ -1,2 +1,2 @@
 # anibot
-animestream
+Updates in daily anime which stream everyday
